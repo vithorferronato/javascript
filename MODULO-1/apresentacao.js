@@ -1,0 +1,10 @@
+console.log("Nome: Vithor");
+console.log("Idade: 16");
+console.log("Cidade: Santa Rita do Passa-Quatro");
+console.log("Turma: 2°B");
+console.log("Filme/série favorita: O mentalista e Gente Grande");
+console.log("Time de Futebol: Corinthians");
+console.log("Comida Favorita: Japonesa");
+console.log("Hobby: Jogar Futebol");
+console.log("Música Favorita: Funk");
+console.log("Animal de Estimação: Cachorro");
