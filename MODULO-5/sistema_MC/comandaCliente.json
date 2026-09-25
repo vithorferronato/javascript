@@ -1,0 +1,20 @@
+{
+  "estabelecimento": "Five",
+  "cliente": {
+    "id": 1,
+    "nome": "Vithin"
+  },
+  "itens": [
+    {
+      "item": "Five American",
+      "precoUnitario": 39,
+      "subTotal": 78
+    },
+    {
+      "item": "Five Pool",
+      "precoUnitario": 46,
+      "subTotal": 46
+    }
+  ],
+  "totalPagar": 124
+}
